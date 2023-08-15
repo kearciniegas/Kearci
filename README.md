@@ -40,7 +40,7 @@ DevOps on [Nubiral](https://nubiral.com/).
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
 <br>
-<h2 align="center">trophies</h2>
+<h2 align="center">Trophies</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kearciniegas&theme=tokyonight"/>
 </p>
