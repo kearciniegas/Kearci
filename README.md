@@ -1,5 +1,3 @@
-<img align='left' src='https://raw.githubusercontent.com/kearciniegas/Kearci/main/sprites/seiya.gif' width='100%'>  
-
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
